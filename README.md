@@ -25,3 +25,6 @@ Please don't use this code as a direct answer to exercises assigned by your teac
 * Streams and File I/O
 * Recursion
 * Dynamic Data Structures and Generics
+
+## Recommended Tools
+I will be using the open source program Netbeans to produce my code examples. The textbook calls for the use of the raw JDK and a text editor called TextPad. While the files can be opened in a number of Java editors, but for best results I recommend using the same program that I did when I created them.
