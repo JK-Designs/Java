@@ -1,4 +1,4 @@
-$ First Time Setup (Windows)
+# First Time Setup (Windows)
 --------------------------
 1. [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and install the JDK (version 8u131 as of this writing)
 2. Add the binary directory to your Windows PATH environment variable.
