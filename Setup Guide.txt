@@ -1,4 +1,4 @@
-First Time Setup (Windows)
+# First Time Setup (Windows)
 --------------------------
 1. Download and install the JDK (version 8u131 as of this writing)
 	http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
@@ -11,7 +11,7 @@ First Time Setup (Windows)
 3. Install TextPad (version 8 as of this writing)
 	https://www.textpad.com/download/
 
-How to Use Commandline Java
+# How to Use Commandline Java
 ---------------------------
 1. Open the Windows command prompt
 	cmd
