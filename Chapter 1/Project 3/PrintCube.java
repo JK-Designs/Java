@@ -12,8 +12,6 @@
 	https://github.com/JK-Designs/Java-Exercises
 */
 
-import java.util.Scanner;
-
 public class PrintCube
 {
 	public static void main(String[] args)
