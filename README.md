@@ -27,4 +27,4 @@ Please don't use this code as a direct answer to exercises assigned by your teac
 * Dynamic Data Structures and Generics
 
 ## Recommended Tools
-The textbook calls for the use of the raw JDK and a text editor called TextPad. (https://www.textpad.com/download/index.html) I am using TextPad version 8.1.2 64-bit for Windows and Java version 1.8.0_131.
+The textbook calls for the use of the raw JDK and a text editor called TextPad. (https://www.textpad.com/download/index.html) I am using TextPad version 8.1.2 64-bit for Windows and JDK version 1.8.0_131.
