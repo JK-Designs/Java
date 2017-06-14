@@ -10,6 +10,13 @@
 	Java Project Series
 	Chapter 1 Project 1
 	https://github.com/JK-Designs/Java-Exercises
+
+	Problem Description
+	-------------------
+	Obtain a copy of the Java program shown in Listing 1.1
+	from the Web at the location given in the preface. Name
+	the file FirstProgram.java. Compile the program so that
+	you receive no compiler error messages. Then run the program.
 */
 
 import java.util.Scanner;
