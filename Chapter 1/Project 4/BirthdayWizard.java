@@ -10,6 +10,16 @@
 	Java Project Series
 	Chapter 1 Project 4
 	https://github.com/JK-Designs/Java-Exercises
+
+	Project Description
+	-------------------
+	Write a complete program for the problem
+	described in Exercise 9. (Given a person's
+	year of birth, the Birthday Wizard can compute
+	the year in which the person's nth birthday
+	will occur or has occured. Write statements
+	that can be used in a Java program to perform
+	this computation for the Birthday Wizard.)
 */
 
 import java.util.Scanner;
