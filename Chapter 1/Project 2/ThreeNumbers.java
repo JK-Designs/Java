@@ -10,6 +10,13 @@
 	Java Project Series
 	Chapter 1 Project 2
 	https://github.com/JK-Designs/Java-Exercises
+
+	Problem Description
+	-------------------
+	Modify the Java program described in Programming
+	Project 1 so that it adds three numbers instead
+	of two. Compile the program so that you receive
+	no compiler error messages. Then run the program.
 */
 
 import java.util.Scanner;
